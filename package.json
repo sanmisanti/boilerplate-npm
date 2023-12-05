@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Santiago San Miguel",
-	"asd": "asd",
+	"description": "Packages with NPM course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
